@@ -62,7 +62,7 @@ class App extends Component {
                 <Header 
                     title="ReMemory" 
                     desc="A React memory game."
-                    rules="Click on an image to earn points, but don't click on any image more than once." 
+                    rules="Click on an image to earn points, but don't click on an image more than once." 
                 />
                 <ScoreBar score={this.state.score} />
                 <Wrapper>

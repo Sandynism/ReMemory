@@ -1,6 +1,11 @@
 .jumbotron {
     margin-bottom: 0px;
-    color: white;
-    background-color:rgb(134, 158, 153);
+    color: black;
+    background-image: url(../../images/gplaypattern.png);
+    background-repeat: repeat;
     padding: 30px 0px;
+}
+
+header > h1 {
+    color: rgb(226, 136, 136);
 }
